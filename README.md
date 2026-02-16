@@ -23,7 +23,7 @@ The example demonstrates the following approaches to mark TOC entries:
 
 * [How to: Create a Table of Contents](https://docs.devexpress.com/OfficeFileAPI/120710/word-processing-document-api/examples/document-elements/how-to-create-a-table-of-contents)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-processing-table-of-contents-practical-guide&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-processing-table-of-contents-practical-guide&~~~was_helpful=no)
 
